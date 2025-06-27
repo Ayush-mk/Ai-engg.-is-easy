@@ -1,0 +1,1 @@
+print("Anant is a dog")
