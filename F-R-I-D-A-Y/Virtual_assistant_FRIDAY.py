@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = "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"
+API_KEY = "*******************************"
 API_URL = "https://api.groq.com/openai/v1/chat/completions"
 MODEL = "meta-llama/llama-4-scout-17b-16e-instruct"
 
